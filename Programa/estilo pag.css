@@ -1,0 +1,17 @@
+body{background-image: url(imagen\ fondo.jpg);}
+h1{ text-align: center;
+    background-color: darkblue;
+    padding: 15px; 
+    color: white;
+    font-size: 60px ;
+    font-family: Arial;
+    font-weight: bold;
+    border: solid black 10px;
+    border-radius: 25px 0 25px 0;
+    margin-bottom: 2px;
+}
+#aclaracion{color: white; animation:move 2s infinite;}
+#descripcion{color: white;}
+#redes{color: white;}
+h2{color: white;}
+h3{color: white;}
