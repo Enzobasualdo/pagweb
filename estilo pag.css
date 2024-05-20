@@ -1,0 +1,26 @@
+body{background-image: url(imagen\ fondo.jpg);
+    }
+h1{ text-align: center;
+    background-color: darkblue;
+    padding: 15px; 
+    color: white;
+    font-size: 60px ;
+    font-family: Arial;
+    font-weight: bold;
+    border: solid black 10px;
+    border-radius: 25px 0 25px 0;
+    margin-bottom: 2px;
+}
+#aclaracion{color: white;
+            font-family: fantasy;}
+#descripcion{color: whitesmoke;
+            font-size: 20px;
+            text-align: center;
+}
+#redes{color: white;}
+h2{color: white;
+   text-align: center;
+}
+h3{color: white;}
+h4{color: white;}
+h5{color: white; font-size: large;}
